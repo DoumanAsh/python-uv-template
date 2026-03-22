@@ -1,0 +1,15 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Version should be in pyproject
+.python-version
+# Specify good version in pyproject
+*.lock
+
+# Virtual environments
+.venv
